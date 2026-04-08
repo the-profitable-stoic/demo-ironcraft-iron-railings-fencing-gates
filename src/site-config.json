@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "IRONCRAFT Iron Railings, Fencing & Gates",
+    "phone": "+17738177737",
+    "category": "fence contractor",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Chicago's Ironwork Experts",
+      "heroSubline": "Crafting durable, beautiful railings, fences, and gates for Chicago homes and businesses. Built to withstand Chicago winters.",
+      "aboutTitle": "Uncompromising Quality, Chicago-Forged",
+      "aboutText": [
+        "IRONCRAFT Iron Railings, Fencing & Gates started with a simple goal: to provide Chicago with ironwork that lasts. We saw too many flimsy fences and railings succumbing to our brutal winters, so we built a company around strength and artistry.",
+        "Our approach is straightforward: honest assessments, meticulous craftsmanship, and materials built to endure. We don't cut corners, and we stand behind every project, large or small. We treat every project as if it were for our own home.",
+        "We're Chicagoans, and we're invested in this city. From Lincoln Park brownstones to suburban Naperville homes, we take pride in enhancing the beauty and security of our community. IRONCRAFT actively supports local youth sports programs in the Chicagoland area."
+      ],
+      "valueProps": [
+        {
+          "title": "Chicago-Grade Durability",
+          "description": "Built to withstand the worst Chicago winters, our ironwork lasts for decades."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "From classic wrought iron to modern steel, we create designs that complement your property's unique style."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise and secure installation, guaranteeing long-lasting performance."
+        },
+        {
+          "title": "Unwavering Commitment",
+          "description": "We stand behind our work with a comprehensive warranty and a dedication to customer satisfaction."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Contact IRONCRAFT for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "iron-railings",
+        "name": "Iron Railings",
+        "shortDescription": "Enhance your property with custom-designed iron railings.",
+        "description": "IRONCRAFT specializes in crafting and installing iron railings that combine security with elegance. Whether you need railings for your front steps in Lincoln Park, a balcony overlooking Lake Michigan, or a commercial property in the Loop, we deliver unparalleled quality. We work with wrought iron, steel, and aluminum, customizing designs to match your architectural style. Our railings are built to withstand Chicago's harsh weather, resisting rust and corrosion for years to come. From initial design to final installation, our team ensures a seamless process and a stunning result. We handle everything from permits to post-installation inspection, so you can be sure the job is done right the first time.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs, assess your property, and create a custom design.",
+          "Step 2: Fabrication – Our skilled artisans meticulously craft your railings using high-quality materials.",
+          "Step 3: Installation – Our experienced team ensures precise and secure installation.",
+          "Step 4: Inspection – We conduct a thorough inspection to guarantee your satisfaction."
+        ],
+        "benefits": [
+          "Enhanced Safety and Security",
+          "Increased Property Value",
+          "Improved Curb Appeal",
+          "Custom Design Options"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install iron railings?",
+            "answer": "The installation time depends on the size and complexity of the project, but most residential railing projects are completed within 1-3 days."
+          },
+          {
+            "question": "What type of maintenance is required for iron railings?",
+            "answer": "Our railings are powder-coated to resist rust and corrosion. Periodic cleaning with soap and water is typically sufficient to maintain their appearance."
+          },
+          {
+            "question": "Can you match existing railing designs?",
+            "answer": "Yes, we can replicate existing designs to maintain the architectural integrity of your property. Just provide us with photos or drawings."
+          }
+        ]
+      },
+      {
+        "slug": "iron-fences",
+        "name": "Iron Fences",
+        "shortDescription": "Secure your property with durable and stylish iron fences.",
+        "description": "IRONCRAFT provides iron fence solutions for residential and commercial properties throughout Chicago and the suburbs. Our fences offer a combination of security, privacy, and aesthetic appeal. We tailor our designs to complement the architectural style of your property, whether it's a classic brick bungalow in Beverly or a modern condo in River North. Our fences are constructed from high-quality materials and are built to withstand Chicago's demanding climate. We offer a variety of styles, from ornamental wrought iron to sleek, modern steel. We handle all aspects of the project, from obtaining permits to providing expert installation. Our iron fences are not just barriers; they're investments in the value and security of your property. We can adapt to existing property lines and terrain to ensure seamless integration.",
+        "process": [
+          "Step 1: Site Assessment and Design – We evaluate your property and create a custom fence design.",
+          "Step 2: Material Selection – Choose from a variety of iron and steel options.",
+          "Step 3: Fence Installation – Our team expertly installs your new fence.",
+          "Step 4: Final Inspection – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Enhanced Security and Privacy",
+          "Increased Property Value",
+          "Improved Curb Appeal",
+          "Long-Lasting Durability"
+        ],
+        "faq": [
+          {
+            "question": "How tall can an iron fence be in Chicago?",
+            "answer": "Fence height restrictions vary depending on the zoning regulations in your area. We can help you determine the maximum allowable height for your property."
+          },
+          {
+            "question": "Do I need a permit to install an iron fence?",
+            "answer": "Yes, a permit is typically required for fence installation in Chicago. We will handle the permit application process for you."
+          },
+          {
+            "question": "How long will my iron fence last?",
+            "answer": "With proper maintenance, our iron fences can last for decades. We use powder-coating to protect against rust and corrosion."
+          }
+        ]
+      },
+      {
+        "slug": "iron-gates",
+        "name": "Iron Gates",
+        "shortDescription": "Add security and style to your property with custom iron gates.",
+        "description": "IRONCRAFT designs and installs custom iron gates for residential and commercial properties in Chicago. Our gates provide security, privacy, and a touch of elegance to any entrance. We offer a wide range of styles, from simple pedestrian gates to elaborate driveway gates with automated openers. Our gates are constructed from high-quality materials and are built to withstand Chicago's harsh weather. We can customize the design to match your architectural style. Whether you're looking for a traditional wrought iron gate for your home in Hyde Park or a modern steel gate for your business in Schaumburg, we can deliver exactly what you need. We also install gate openers and access control systems to provide added convenience and security. Our team will handle the entire process, from design and fabrication to installation and maintenance.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and create a custom gate design.",
+          "Step 2: Gate Fabrication – Our skilled craftsmen build your gate to your specifications.",
+          "Step 3: Gate Installation – Our team expertly installs your gate and any associated hardware.",
+          "Step 4: Opener Installation – We install and program your gate opener and access control system (if applicable)."
+        ],
+        "benefits": [
+          "Enhanced Security and Privacy",
+          "Improved Curb Appeal",
+          "Convenient Access",
+          "Custom Design Options"
+        ],
+        "faq": [
+          {
+            "question": "Can you automate my existing iron gate?",
+            "answer": "Yes, we can often automate existing gates. We will need to assess the gate's condition and structural integrity to determine if it's suitable for automation."
+          },
+          {
+            "question": "What types of gate openers do you offer?",
+            "answer": "We offer a variety of gate openers, including swing gate openers, slide gate openers, and underground gate openers."
+          },
+          {
+            "question": "Do you offer warranty on your gate openers?",
+            "answer": "Yes, we offer a warranty on all of our gate openers. The length of the warranty varies depending on the model."
+          }
+        ]
+      },
+      {
+        "slug": "security-bars",
+        "name": "Window Security Bars",
+        "shortDescription": "Protect your Chicago home or business with custom security bars.",
+        "description": "IRONCRAFT provides window security bars for homes and businesses throughout Chicago. Protect your property from break-ins with our durable and custom-fitted security bars. We understand the importance of safety, especially in neighborhoods like Englewood and Pilsen. Our security bars not only provide a strong deterrent to intruders, but they can also be designed to complement the architectural style of your building. We offer a variety of styles and finishes to match your needs. All our security bars meet or exceed Chicago's building codes. We provide professional installation to ensure maximum security. Our team works quickly and efficiently to minimize disruption to your daily routine. We offer free consultations and estimates.",
+        "process": [
+          "Step 1: On-site Assessment – We assess your window dimensions and security needs.",
+          "Step 2: Custom Design – We create a security bar design that matches your style.",
+          "Step 3: Secure Fabrication – We fabricate your bars to exact specifications.",
+          "Step 4: Professional Installation – Our team installs your security bars with precision."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Peace of Mind",
+          "Custom Design Options",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "Are your security bars easy to remove from the inside in case of an emergency?",
+            "answer": "Yes, we can install security bars with quick-release mechanisms for emergency egress."
+          },
+          {
+            "question": "Do you offer security bars for basement windows?",
+            "answer": "Yes, we offer security bars specifically designed for basement windows."
+          },
+          {
+            "question": "What finishes are available for security bars?",
+            "answer": "We offer a variety of finishes, including powder coating, painting, and galvanizing."
+          }
+        ]
+      },
+      {
+        "slug": "custom-metalwork",
+        "name": "Custom Metalwork",
+        "shortDescription": "Bring your unique vision to life with custom metal fabrication.",
+        "description": "IRONCRAFT offers custom metalwork services for residential and commercial clients in Chicago. If you have a unique design or project that requires metal fabrication, we can help. We work with a variety of metals, including steel, aluminum, and wrought iron. Our skilled craftsmen can create everything from custom furniture and decorative elements to structural components and architectural details. We work closely with our clients to understand their vision and bring it to life. We use the latest technology and techniques to ensure precision and quality. Whether you need a custom railing for your penthouse in Streeterville or a unique metal sculpture for your garden in Oak Park, we can deliver exceptional results. We provide free consultations and estimates.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your needs and create a detailed design.",
+          "Step 2: Material Selection – We help you choose the best metal for your project.",
+          "Step 3: Fabrication – Our experienced craftsmen fabricate your metalwork.",
+          "Step 4: Finishing and Installation – We finish and install your custom piece."
+        ],
+        "benefits": [
+          "Unique Design",
+          "High-Quality Materials",
+          "Expert Craftsmanship",
+          "Personalized Service"
+        ],
+        "faq": [
+          {
+            "question": "What types of metal can you work with?",
+            "answer": "We work with a variety of metals, including steel, aluminum, stainless steel, and wrought iron."
+          },
+          {
+            "question": "What is the typical turnaround time for a custom metalwork project?",
+            "answer": "Turnaround time depends on the complexity of the project. We will provide you with an estimated timeline during the consultation."
+          },
+          {
+            "question": "Do you offer delivery and installation services?",
+            "answer": "Yes, we offer delivery and installation services for all of our custom metalwork projects."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair & Maintenance",
+        "shortDescription": "Keep your fence in top condition with our repair and maintenance services.",
+        "description": "IRONCRAFT offers fence repair and maintenance services for all types of fences in Chicago and the surrounding suburbs. Our brutal winters can take a toll on fences, causing them to rust, warp, or break. We can repair or replace damaged posts, panels, and gates. We also offer maintenance services to keep your fence looking its best. Whether you have a wrought iron fence in Evanston or a chain-link fence in Aurora, we can help. We offer prompt and reliable service at competitive prices. Our experienced technicians can quickly diagnose and repair any fence problem. We use high-quality materials to ensure lasting repairs. We also offer fence painting and staining services to protect your fence from the elements. We provide free estimates for all fence repair and maintenance projects.",
+        "process": [
+          "Step 1: Inspection – We inspect your fence to assess the damage.",
+          "Step 2: Repair Plan – We create a repair plan and provide you with an estimate.",
+          "Step 3: Fence Repair – We repair or replace damaged components.",
+          "Step 4: Maintenance – We offer maintenance services to keep your fence in top condition."
+        ],
+        "benefits": [
+          "Extended Fence Life",
+          "Improved Security",
+          "Enhanced Appearance",
+          "Cost Savings"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my fence inspected?",
+            "answer": "We recommend having your fence inspected at least once a year, especially after a harsh winter."
+          },
+          {
+            "question": "What are the signs that my fence needs repair?",
+            "answer": "Signs that your fence needs repair include leaning posts, broken panels, rusted metal, and loose gates."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-fencing",
+        "name": "Commercial Fencing Solutions",
+        "shortDescription": "Secure your business with our durable commercial fencing options.",
+        "description": "IRONCRAFT provides commercial fencing solutions for businesses throughout Chicago and the surrounding suburbs. We understand the importance of security for your business, which is why we offer a variety of durable and reliable fencing options. From chain-link fences for industrial properties to ornamental iron fences for office buildings, we can provide the perfect fencing solution for your needs. We also offer access control systems and gate automation to enhance security and convenience. Our team has extensive experience working with commercial clients. We understand the importance of minimizing disruption to your business operations. We offer flexible scheduling and efficient installation services. We provide free consultations and estimates.",
+        "process": [
+          "Step 1: Security Assessment – We assess your property and security needs.",
+          "Step 2: Fence Design – We create a custom fence design that meets your requirements.",
+          "Step 3: Professional Installation – Our team installs your commercial fence.",
+          "Step 4: Access Control – We integrate access control systems for added security."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Property Protection",
+          "Increased Privacy",
+          "Professional Installation"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial fencing do you offer?",
+            "answer": "We offer a variety of commercial fencing options, including chain-link fences, ornamental iron fences, and security fences."
+          },
+          {
+            "question": "Do you offer financing options for commercial fencing projects?",
+            "answer": "Yes, we offer financing options for qualified commercial clients."
+          },
+          {
+            "question": "Can you install automated gates for commercial properties?",
+            "answer": "Yes, we can install automated gates for commercial properties."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Naperville",
+        "slug": "naperville-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates is proud to offer our premium iron fencing, railing, and gate services to the residents of Naperville, Illinois. Known for its upscale family homes built from the 1970s through the 2000s, Naperville presents unique opportunities for enhancing property aesthetics and security with our custom ironwork. We understand the importance of durable and elegant fencing that complements the architectural style of your home.\n\nOur iron fences and railings are built to withstand Naperville's harsh winters, characterized by heavy snow and ice. We use high-quality materials and expert craftsmanship to ensure your investment lasts for years to come. Whether you're looking to add curb appeal, secure your property, or create a safe outdoor space for your family, IRONCRAFT has the perfect solution for your Naperville home.",
+        "localContext": "Naperville's blend of modern suburban living and community spirit makes it an ideal place for IRONCRAFT's high-quality ironwork.",
+        "nearbyAreas": [
+          "Aurora",
+          "Plainfield",
+          "Downers Grove"
+        ]
+      },
+      {
+        "city": "Aurora",
+        "slug": "aurora-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates is delighted to serve the diverse community of Aurora, Illinois. With a wide range of housing styles dating from the 1960s to the 2000s, Aurora presents a variety of fencing needs and design preferences. We are committed to providing custom iron solutions that enhance the beauty and security of your property.\n\nOur iron fences, railings, and gates are designed to withstand Aurora's challenging climate, including harsh cold winters with heavy snow and ice. We prioritize durability and longevity in our craftsmanship, ensuring your investment remains beautiful and functional for years to come. From classic designs to modern styles, IRONCRAFT can create the perfect ironwork to complement your Aurora home.",
+        "localContext": "Aurora's diverse housing stock and strong community ties make it an excellent location for IRONCRAFT to provide custom iron solutions.",
+        "nearbyAreas": [
+          "Naperville",
+          "Oswego",
+          "Montgomery"
+        ]
+      },
+      {
+        "city": "Schaumburg",
+        "slug": "schaumburg-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates proudly serves the village of Schaumburg, Illinois, offering custom iron fencing, railings, and gate solutions to enhance the beauty and security of your property. Schaumburg, known for its 1970s and 1980s suburban developments, presents unique opportunities to add elegance and security to your home with our durable and stylish ironwork.\n\nWe understand the importance of quality craftsmanship and materials to withstand Schaumburg's harsh winters, characterized by heavy snow and ice. Our iron fences and railings are built to last, providing years of reliable protection and enhancing the curb appeal of your home. Whether you're looking to define your property lines, secure your backyard, or add a touch of sophistication to your landscaping, IRONCRAFT has the perfect iron solution for your Schaumburg home.",
+        "localContext": "Schaumburg's established suburban character and focus on community make it a great fit for IRONCRAFT's commitment to quality and customer satisfaction.",
+        "nearbyAreas": [
+          "Hoffman Estates",
+          "Palatine",
+          "Rolling Meadows"
+        ]
+      },
+      {
+        "city": "Evanston",
+        "slug": "evanston-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates is honored to provide custom iron fencing, railing, and gate services to the historic city of Evanston, Illinois. With its charming 1890s-1930s homes and proximity to Northwestern University, Evanston presents unique opportunities to enhance property aesthetics and security with our custom ironwork. We understand the importance of preserving the historic character of your home while providing durable and elegant fencing solutions.\n\nOur iron fences and railings are built to withstand Evanston's harsh winters, characterized by heavy snow and ice. We use high-quality materials and expert craftsmanship to ensure your investment lasts for years to come. Whether you're looking to restore an existing iron feature or add a new custom design, IRONCRAFT has the perfect solution for your Evanston home.",
+        "localContext": "Evanston's rich history and architectural beauty make it an ideal place for IRONCRAFT's custom ironwork to shine.",
+        "nearbyAreas": [
+          "Skokie",
+          "Wilmette",
+          "Chicago"
+        ]
+      },
+      {
+        "city": "Arlington Heights",
+        "slug": "arlington-heights-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates is dedicated to serving the residents of Arlington Heights, Illinois, with our premium iron fencing, railing, and gate services. Known for its established ranch homes built in the 1950s-1970s, Arlington Heights presents unique opportunities for enhancing property aesthetics and security with our custom ironwork. We understand the importance of durable and elegant fencing that complements the architectural style of your home.\n\nOur iron fences and railings are built to withstand Arlington Heights' harsh winters, characterized by heavy snow and ice. We use high-quality materials and expert craftsmanship to ensure your investment lasts for years to come. Whether you're looking to add curb appeal, secure your property, or create a safe outdoor space for your family, IRONCRAFT has the perfect solution for your Arlington Heights home.",
+        "localContext": "Arlington Height's family-friendly atmosphere and well-maintained neighborhoods make it a great place for IRONCRAFT's quality ironwork.",
+        "nearbyAreas": [
+          "Mount Prospect",
+          "Rolling Meadows",
+          "Palatine"
+        ]
+      },
+      {
+        "city": "Downers Grove",
+        "slug": "downers-grove-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates is pleased to offer our expert iron fencing, railing, and gate services to the community of Downers Grove, Illinois. With its mix of historic homes and newer developments, Downers Grove presents a variety of fencing needs and design preferences. We are committed to providing custom iron solutions that enhance the beauty and security of your property.\n\nOur iron fences, railings, and gates are designed to withstand Downers Grove's challenging climate, including harsh cold winters with heavy snow and ice. We prioritize durability and longevity in our craftsmanship, ensuring your investment remains beautiful and functional for years to come. From classic wrought iron to modern designs, IRONCRAFT can create the perfect ironwork to complement your Downers Grove home.",
+        "localContext": "Downers Grove's blend of historic charm and community spirit makes it an excellent location for IRONCRAFT to provide custom iron solutions.",
+        "nearbyAreas": [
+          "Naperville",
+          "Westmont",
+          "Lisle"
+        ]
+      },
+      {
+        "city": "Mount Prospect",
+        "slug": "mount-prospect-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates is proud to serve Mount Prospect, Illinois, providing high-quality iron fencing, railings, and gates to enhance the beauty and security of your home. Mount Prospect, with its established residential areas, offers many opportunities to elevate property aesthetics with our custom ironwork. We are dedicated to providing durable and elegant solutions that complement the architectural style of your home.\n\nOur iron fences and railings are built to withstand the harsh winters of Mount Prospect, characterized by heavy snow and ice. We use premium materials and expert craftsmanship to ensure your investment lasts for years. Whether you want to enhance curb appeal, secure your property, or create a safe outdoor space for your family, IRONCRAFT has the perfect solution for your Mount Prospect home.",
+        "localContext": "Mount Prospect's strong sense of community and well-maintained homes make it a great fit for IRONCRAFT's commitment to quality and customer satisfaction.",
+        "nearbyAreas": [
+          "Arlington Heights",
+          "Des Plaines",
+          "Rolling Meadows"
+        ]
+      },
+      {
+        "city": "Skokie",
+        "slug": "skokie-il",
+        "state": "IL",
+        "content": "IRONCRAFT Iron Railings, Fencing & Gates is delighted to offer our custom iron fencing, railing, and gate services to the residents of Skokie, Illinois. Skokie, known for its diverse community and well-maintained neighborhoods, provides numerous opportunities to enhance property aesthetics and security with our custom ironwork. We understand the importance of durable and elegant fencing that complements the architectural style of your home.\n\nOur iron fences and railings are built to withstand Skokie's harsh winters, characterized by heavy snow and ice. We use high-quality materials and expert craftsmanship to ensure your investment lasts for years to come. Whether you're looking to add curb appeal, secure your property, or create a safe outdoor space for your family, IRONCRAFT has the perfect solution for your Skokie home.",
+        "localContext": "Skokie's diverse community and vibrant neighborhoods make it an ideal place for IRONCRAFT's high-quality ironwork.",
+        "nearbyAreas": [
+          "Evanston",
+          "Wilmette",
+          "Morton Grove"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Iron Railings",
+        "text": "IRONCRAFT installed beautiful iron railings on my front porch. The quality is outstanding, and they really enhanced the curb appeal of my home. The installation team was professional and efficient. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Iron Fence",
+        "text": "I hired IRONCRAFT to install an iron fence around my backyard. The fence looks great, and it provides the security I was looking for. There was a small delay due to weather, but they communicated well and completed the job promptly once the weather cleared.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Security Bars",
+        "text": "IRONCRAFT installed security bars on my basement windows. I feel much safer knowing that my home is protected. The security bars are well-made and blend in with the existing windows.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Susan K.",
+        "rating": 5,
+        "service": "Iron Gate",
+        "text": "We had IRONCRAFT install a custom iron gate for our driveway. The gate is absolutely stunning, and it adds so much character to our property. The craftsmanship is exceptional, and the installation was flawless.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 4,
+        "service": "Fence Repair",
+        "text": "IRONCRAFT repaired my damaged fence after a storm. They were able to quickly assess the damage and provide a cost-effective solution. The repair work was excellent, and my fence is now as good as new.",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Jennifer A.",
+        "rating": 5,
+        "service": "Custom Metalwork",
+        "text": "IRONCRAFT created a custom metal sculpture for my garden. The sculpture is a work of art, and it's the perfect addition to my outdoor space. The team at IRONCRAFT was a pleasure to work with, and they really brought my vision to life.",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "IRONCRAFT: Chicago Iron Railings & Fences",
+        "description": "Chicago's premier iron railing, fence, and gate contractor. Custom designs, expert installation, and unparalleled durability."
+      },
+      "about": {
+        "title": "About IRONCRAFT - Chicago's Ironwork Experts",
+        "description": "Learn about IRONCRAFT's commitment to quality, craftsmanship, and customer satisfaction in Chicago, IL."
+      },
+      "services": {
+        "title": "IRONCRAFT Services: Railings, Fences, Gates",
+        "description": "Explore our range of iron railing, fence, and gate services in Chicago. Custom metalwork and expert installation guaranteed."
+      },
+      "contact": {
+        "title": "Contact IRONCRAFT - Free Estimates in Chicago",
+        "description": "Get a free estimate for your iron railing, fence, or gate project in Chicago. Contact us today!"
+      },
+      "reviews": {
+        "title": "IRONCRAFT Reviews - Chicago's Top Contractor",
+        "description": "Read reviews from satisfied IRONCRAFT customers in Chicago. See why we're the trusted choice for ironwork."
+      },
+      "service-areas": {
+        "title": "IRONCRAFT Service Areas - Chicago & Suburbs",
+        "description": "IRONCRAFT provides iron railing, fence, and gate services throughout Chicago and its surrounding suburbs."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "iron-railings": "/images/service-iron-railings.webp",
+      "iron-fences": "/images/service-iron-fences.webp",
+      "iron-gates": "/images/service-iron-gates.webp",
+      "security-bars": "/images/service-security-bars.webp",
+      "custom-metalwork": "/images/service-custom-metalwork.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "commercial-fencing": "/images/service-commercial-fencing.webp"
+    },
+    "servicesResponsive": {
+      "iron-railings": {
+        "src": "/images/service-iron-railings.webp",
+        "srcset": "/images/service-iron-railings-400w.webp 400w, /images/service-iron-railings-800w.webp 800w, /images/service-iron-railings-1200w.webp 1200w, /images/service-iron-railings.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "iron-fences": {
+        "src": "/images/service-iron-fences.webp",
+        "srcset": "/images/service-iron-fences-400w.webp 400w, /images/service-iron-fences-800w.webp 800w, /images/service-iron-fences-1200w.webp 1200w, /images/service-iron-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "iron-gates": {
+        "src": "/images/service-iron-gates.webp",
+        "srcset": "/images/service-iron-gates-400w.webp 400w, /images/service-iron-gates-800w.webp 800w, /images/service-iron-gates-1200w.webp 1200w, /images/service-iron-gates.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "security-bars": {
+        "src": "/images/service-security-bars.webp",
+        "srcset": "/images/service-security-bars-400w.webp 400w, /images/service-security-bars-800w.webp 800w, /images/service-security-bars-1200w.webp 1200w, /images/service-security-bars.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-metalwork": {
+        "src": "/images/service-custom-metalwork.webp",
+        "srcset": "/images/service-custom-metalwork-400w.webp 400w, /images/service-custom-metalwork-800w.webp 800w, /images/service-custom-metalwork-1200w.webp 1200w, /images/service-custom-metalwork.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-fencing": {
+        "src": "/images/service-commercial-fencing.webp",
+        "srcset": "/images/service-commercial-fencing-400w.webp 400w, /images/service-commercial-fencing-800w.webp 800w, /images/service-commercial-fencing-1200w.webp 1200w, /images/service-commercial-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
